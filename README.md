@@ -5,5 +5,5 @@ Compile on Visual Studio 2017 community
 
 cmd> cl /EHsc /O2 killkeyboard.cpp
 
-copy exe into somewhere (e.g., "C:\User\%username%\" )
+copy exe into somewhere (e.g., "C:\\User\\%username%\\" )
 right click and pin to start
